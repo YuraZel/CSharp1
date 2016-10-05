@@ -1,0 +1,6 @@
+D:\Завдання\CSharp1\Task5Console\bin\Debug\Task5Console.exe.config
+D:\Завдання\CSharp1\Task5Console\bin\Debug\Task5Console.exe
+D:\Завдання\CSharp1\Task5Console\bin\Debug\Task5Console.pdb
+D:\Завдання\CSharp1\Task5Console\obj\Debug\Task5Console.csprojResolveAssemblyReference.cache
+D:\Завдання\CSharp1\Task5Console\obj\Debug\Task5Console.exe
+D:\Завдання\CSharp1\Task5Console\obj\Debug\Task5Console.pdb

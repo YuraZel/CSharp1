@@ -1,0 +1,5 @@
+D:\Завдання\CSharp1\Task2Console\bin\Debug\Task2Console.exe.config
+D:\Завдання\CSharp1\Task2Console\bin\Debug\Task2Console.exe
+D:\Завдання\CSharp1\Task2Console\bin\Debug\Task2Console.pdb
+D:\Завдання\CSharp1\Task2Console\obj\Debug\Task2Console.exe
+D:\Завдання\CSharp1\Task2Console\obj\Debug\Task2Console.pdb

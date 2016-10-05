@@ -1,0 +1,8 @@
+D:\Завдання\CSharp1\Task5WinForms\bin\Debug\Task5WinForms.exe.config
+D:\Завдання\CSharp1\Task5WinForms\bin\Debug\Task5WinForms.exe
+D:\Завдання\CSharp1\Task5WinForms\bin\Debug\Task5WinForms.pdb
+D:\Завдання\CSharp1\Task5WinForms\obj\Debug\Task5WinForms.Form1.resources
+D:\Завдання\CSharp1\Task5WinForms\obj\Debug\Task5WinForms.Properties.Resources.resources
+D:\Завдання\CSharp1\Task5WinForms\obj\Debug\Task5WinForms.csproj.GenerateResource.Cache
+D:\Завдання\CSharp1\Task5WinForms\obj\Debug\Task5WinForms.exe
+D:\Завдання\CSharp1\Task5WinForms\obj\Debug\Task5WinForms.pdb

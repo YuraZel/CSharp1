@@ -1,0 +1,17 @@
+D:\Завдання\CSharp1\Task1WPF\bin\Debug\Task1WPF.exe.config
+D:\Завдання\CSharp1\Task1WPF\bin\Debug\Task1WPF.exe
+D:\Завдання\CSharp1\Task1WPF\bin\Debug\Task1WPF.pdb
+D:\Завдання\CSharp1\Task1WPF\obj\Debug\Task1WPF.csprojResolveAssemblyReference.cache
+D:\Завдання\CSharp1\Task1WPF\obj\Debug\MainWindow.g.cs
+D:\Завдання\CSharp1\Task1WPF\obj\Debug\App.g.cs
+D:\Завдання\CSharp1\Task1WPF\obj\Debug\Task1WPF_MarkupCompile.cache
+D:\Завдання\CSharp1\Task1WPF\obj\Debug\Task1WPF_MarkupCompile.lref
+D:\Завдання\CSharp1\Task1WPF\obj\Debug\MainWindow.baml
+D:\Завдання\CSharp1\Task1WPF\obj\Debug\Task1WPF.g.resources
+D:\Завдання\CSharp1\Task1WPF\obj\Debug\Task1WPF.Properties.Resources.resources
+D:\Завдання\CSharp1\Task1WPF\obj\Debug\Task1WPF.csproj.GenerateResource.Cache
+D:\Завдання\CSharp1\Task1WPF\obj\Debug\Task1WPF.exe
+D:\Завдання\CSharp1\Task1WPF\obj\Debug\Task1WPF.pdb
+E:\CSharp1\Task1WPF\bin\Debug\Task1WPF.exe.config
+E:\CSharp1\Task1WPF\obj\Debug\Task1WPF.exe
+E:\CSharp1\Task1WPF\obj\Debug\Task1WPF.pdb

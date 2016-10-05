@@ -1,0 +1,9 @@
+D:\Завдання\CSharp1\Task1WinForms\bin\Debug\Task1WinForms.exe.config
+D:\Завдання\CSharp1\Task1WinForms\bin\Debug\Task1WinForms.exe
+D:\Завдання\CSharp1\Task1WinForms\bin\Debug\Task1WinForms.pdb
+D:\Завдання\CSharp1\Task1WinForms\obj\Debug\Task1WinForms.csprojResolveAssemblyReference.cache
+D:\Завдання\CSharp1\Task1WinForms\obj\Debug\Task1WinForms.Form1.resources
+D:\Завдання\CSharp1\Task1WinForms\obj\Debug\Task1WinForms.Properties.Resources.resources
+D:\Завдання\CSharp1\Task1WinForms\obj\Debug\Task1WinForms.csproj.GenerateResource.Cache
+D:\Завдання\CSharp1\Task1WinForms\obj\Debug\Task1WinForms.exe
+D:\Завдання\CSharp1\Task1WinForms\obj\Debug\Task1WinForms.pdb
